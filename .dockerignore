@@ -1,0 +1,8 @@
+target/
+.git
+.mvn
+*.cmd
+.classpath
+.project
+.settings
+.idea
