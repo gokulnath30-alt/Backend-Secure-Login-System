@@ -1,8 +1,4 @@
-target/
+target
 .git
-.mvn
-*.cmd
-.classpath
-.project
-.settings
 .idea
+*.log
